@@ -1,0 +1,34 @@
+<!-- patient-list.component.html -->
+<div class="container">
+    <div class="search-container">
+      <input
+        [(ngModel)]="searchQuery"
+        (input)="loadPatients()"
+        placeholder="חיפוש לפי שם או ID"
+        class="search-input"
+      />
+    </div>
+  
+    <div class="patient-list">
+      <div *ngFor="let patient of patients" class="patient-card">
+        <h3>{{ patient.name }}</h3>
+        <div *ngIf="getClosestAppointment(patient.appointments)" class="appointment-details">
+          <p>
+            <strong>תאריך:</strong>
+            {{
+              getClosestAppointment(patient.appointments)?.date | date: 'dd/MM/yyyy'
+            }}
+          </p>
+          <p>
+            <strong>סוג פגישה:</strong>
+            {{ getClosestAppointment(patient.appointments)?.appointmentTypeDescription }}
+          </p>
+        </div>
+      </div>
+    </div>
+  
+    <mat-paginator [length]="totalPatients" [pageSize]="pageSize" [pageSizeOptions]="[10]" (page)="pageChanged($event)">
+    </mat-paginator>
+  </div>
+  
+  
