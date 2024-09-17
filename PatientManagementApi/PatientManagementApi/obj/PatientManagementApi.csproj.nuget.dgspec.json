@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj": {}
+    "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientsManagement\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj": {
+    "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientsManagement\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj",
+        "projectUniqueName": "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientsManagement\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj",
         "projectName": "PatientManagementApi",
-        "projectPath": "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj",
+        "projectPath": "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientsManagement\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj",
         "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientManagementApi\\PatientManagementApi\\obj\\",
+        "outputPath": "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientsManagement\\PatientManagementApi\\PatientManagementApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

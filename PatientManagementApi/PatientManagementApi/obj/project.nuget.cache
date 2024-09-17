@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NpCmYna4I7TWtZwCf0+5rT7h6ddAGKVF6KdDym9fv4SXsZK7TiKElaxZBu0RP0CdO/VF3sWbe5aLTos80KFdZg==",
+  "dgSpecHash": "DZIHLG7sGAKy3FaloBdLxJWSSnKad2jlimiTwTnrpjbOnO2zGxy4R6LC1ro4Xi/FENgqSsLoMmhGMgr3+TBI3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj",
+  "projectFilePath": "C:\\Users\\The user\\Desktop\\משימת בית CarPay\\PatientsManagement\\PatientManagementApi\\PatientManagementApi\\PatientManagementApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.20\\microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
